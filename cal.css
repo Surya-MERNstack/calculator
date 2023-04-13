@@ -16,6 +16,7 @@ h1 {
     color: rgb(171, 199, 199);
     text-align: center;
     font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .container {
     height: 100vh;
